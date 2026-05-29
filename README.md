@@ -79,11 +79,11 @@ CareerPath-AI/
 
 ### 🌐 CareerLens Deployment
 
-
+https://careerlens-yash.vercel.app/
 
 ### 🌐 CampusXHire Deployment
 
-
+https://web-production-e0223.up.railway.app/
 
 ---
 
@@ -113,7 +113,8 @@ GitHub: https://github.com/ErSaloniAi
 
 **Tannu Sharma**
 
-GitHub: https://github.com/ErSaloniAi
+GitHub: https://github.com/tannu6
+
 ---
 
 ## ⭐ Future Improvements
