@@ -38,29 +38,17 @@ This repository combines two major projects:
 
 ---
 
-## 🛠️ Tech Stack
 
-### Frontend
-
-* React.js
-* Tailwind CSS
-* JavaScript
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-
-### Tools
-
-* Git & GitHub
-* VS Code
-* Postman
-
+🛠 Tech Stack
+Technology	Usage
+Python	Core programming
+Flask	Backend framework
+SQLite	Database
+SQLAlchemy	ORM
+HTML5	Frontend structure
+CSS3	Styling
+JavaScript	Client-side interaction
+Jinja2	Template engine
 ---
 
 ## 📂 Project Structure
