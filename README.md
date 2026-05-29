@@ -1,4 +1,4 @@
-# CareerPath AI 🚀
+# CareerPath🚀
 
 An integrated career development ecosystem combining **CareerLens** and **CampusXHire** into a unified platform that helps students enhance skills, explore opportunities, and prepare for successful careers.
 
@@ -6,7 +6,7 @@ An integrated career development ecosystem combining **CareerLens** and **Campus
 
 # 🌟 Overview
 
-CareerPath AI is designed for students and freshers to:
+CareerPath is designed for students and freshers to:
 
 * Build professional career profiles
 * Explore campus hiring opportunities
